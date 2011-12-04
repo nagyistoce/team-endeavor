@@ -1,0 +1,19 @@
+# MPLAB IDE generated this makefile for use with GNU make.
+# Project: Prototype.mcp
+# Date: Tue Nov 29 21:42:00 2011
+
+AS = MPASMWIN.exe
+CC = mcc18.exe
+LD = mplink.exe
+AR = mplib.exe
+RM = rm
+
+Prototype.cof : main.o
+	$(LD) /p18F4520 /l"C:\MCC18\lib" "main.o" /u_CRUNTIME /o"Prototype.cof" /M"Prototype.map" /W
+
+main.o : main.c shuriken.h ../../../../MCC18/h/spi.h ../../../../MCC18/h/delays.h ../../../../MCC18/h/pwm.h ../../../../MCC18/h/timers.h main.c p18F4520.h adxl345.h ../../../../MCC18/h/pconfig.h ../../../../MCC18/h/p18cxxx.h ../../../../MCC18/h/p18f4520.h
+	$(CC) -p=18F4520 /i"C:\MCC18\h" "main.c" -fo="main.o" -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+clean : 
+	$(RM) "main.o" "Prototype.cof" "Prototype.hex"
+

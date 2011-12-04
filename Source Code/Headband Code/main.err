@@ -1,0 +1,7 @@
+>>> Warning 203 "main.c" Line 12(1,1): Condition always TRUE
+>>> Warning 202 "E:\sd-spring2011\headband_edge_triggered\code\packet.c" Line 50(26,32): Variable never used:   checkb
+>>> Warning 202 "E:\sd-spring2011\headband_edge_triggered\code\packet.c" Line 51(22,34): Variable never used:   IntegrityCHK
+>>> Warning 202 "E:\sd-spring2011\headband_edge_triggered\code\packet.c" Line 65(8,12): Variable never used:   chka
+>>> Warning 202 "E:\sd-spring2011\headband_edge_triggered\code\packet.c" Line 65(13,17): Variable never used:   chkb
+      Memory usage:   ROM=17%      RAM=9% - 13%
+      0 Errors,  5 Warnings.

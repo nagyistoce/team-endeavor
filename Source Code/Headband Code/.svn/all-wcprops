@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/projectum/!svn/ver/209/headband/code
+END
+18F2480.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/projectum/!svn/ver/198/headband/code/18F2480.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/projectum/!svn/ver/198/headband/code/main.c
+END
+main.hex
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projectum/!svn/ver/209/headband/code/main.hex
+END
+can-18xxx8.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projectum/!svn/ver/198/headband/code/can-18xxx8.c
+END
+packet.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projectum/!svn/ver/198/headband/code/packet.c
+END
+IR_rx.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/projectum/!svn/ver/198/headband/code/IR_rx.h
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/projectum/!svn/ver/198/headband/code/main.h
+END
+can-18xxx8.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projectum/!svn/ver/198/headband/code/can-18xxx8.h
+END
+packet.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projectum/!svn/ver/198/headband/code/packet.h
+END

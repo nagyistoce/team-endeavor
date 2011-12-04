@@ -1,0 +1,41 @@
+[PROJECT]
+Target=main.HEX
+Development_Mode=2
+Processor=0x2580
+Processor_Text=PIC18F2580
+ToolSuite=CCS
+
+[Directories]
+Include=
+Library=
+LinkerScript=
+
+[Target Data]
+FileList=E:\sd-spring2011\headband_edge_triggered\code\main.c
+BuildTool=C-COMPILER
+OptionString=+FH
+AdditionalOptionString=
+BuildRequired=1
+
+[main.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+
+[mru-list]
+1=main.c
+
+[Windows]
+0=0000 main.c 0 0 796 451 3 0
+
+[Opened Files]
+1=main.c
+2=IR_rx.h
+3=
+4=
+[Units]
+Count=1
+1=main.c (main)
